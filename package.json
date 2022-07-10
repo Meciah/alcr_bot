@@ -1,0 +1,24 @@
+{
+  
+  "dependencies": {
+  
+    
+  "eosjs": "^22.1.0",
+  
+    
+  "express": "^4.18.1",
+  
+    
+  "node-fetch": "^3.2.5",
+  
+    
+  "socket.io-client": "^4.5.1",
+  
+    
+  "tasktimer": "^3.0.0",
+  
+    
+  "wax-js": "^0.0.2"
+  
+  }
+}
