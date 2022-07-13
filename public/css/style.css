@@ -1,0 +1,138 @@
+body {
+    background: url('/dark_space.webp');
+    font-family: system-ui;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+  }
+  .contain{
+    margin: 0px 100px;
+  }
+  table th, table th * {
+    vertical-align: top;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+  label{
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+  }
+  hr{
+    border-top: 1px solid white;
+  }
+h1 {
+  color: white;
+    /* color: blue; */
+  }
+p {
+    /* color: red; */
+  }
+.fw{
+
+}
+.fw .animal_type{
+  height: 30px;
+  width: 120px;
+  font-size: 14px;
+  padding: 7px 0;
+  margin: 2px 0px ;
+  background-color: rgb(220, 226, 106);
+  font-weight: bold;
+  border-radius: 0px;
+  color: black;
+}
+.fw .timer{
+  height: 30px;
+  width: 120px;
+  font-size: 14px;
+  padding: 7px 0;
+  margin: 2px 0px ;
+  font-weight: bold;
+  border-radius: 0px;
+  color: white;
+}
+.fw .timer .bg_slider{
+height: 10px;
+background-color: rgb(182, 182, 182);
+}
+.sw_css{
+
+}
+.sw_css .trawl_type{
+  height: 30px;
+  width: 100px;
+  font-size: 14px;
+  padding: 7px 0;
+  margin: 2px 0px ;
+  background-color: rgb(220, 226, 106);
+  font-weight: bold;
+  border-radius: 0px;
+  color: black;
+}
+.sw_css .durability{
+  height: 30px;
+  width: 120px;
+  font-size: 14px;
+  padding: 7px 0;
+  margin: 2px 0px ;
+  background-color: rgb(29, 195, 62);
+  font-weight: bold;
+  border-radius: 0px;
+  color: black;
+}
+.sw_css .rarity{
+  height: 30px;
+  width: 120px;
+  font-size: 14px;
+  padding: 7px 0;
+  margin: 2px 0px ;
+  background-color: rgb(209, 86, 29);
+  font-weight: bold;
+  border-radius: 0px;
+  color: white;
+}
+.sw_css .timer{
+  height: 30px;
+  width: 120px;
+  font-size: 14px;
+  padding: 7px 0;
+  margin: 2px 0px ;
+  font-weight: bold;
+  border-radius: 0px;
+  color: white;
+}
+.sw_css .timer .bg_slider{
+height: 10px;
+background-color: rgb(182, 182, 182);
+}
+
+.pandas{
+
+}
+.pandas .animal_type{
+  height: 30px;
+  width: 120px;
+  font-size: 14px;
+  padding: 7px 0;
+  margin: 2px 0px ;
+  font-weight: bold;
+  border-radius: 0px;
+  color: black;
+}
+.pandas .timer{
+  height: 30px;
+  width: 120px;
+  font-size: 14px;
+  padding: 7px 0;
+  margin: 2px 0px ;
+  font-weight: bold;
+  border-radius: 0px;
+  color: white;
+}
+.pandas .timer .bg_slider{
+height: 10px;
+background-color: rgb(182, 182, 182);
+}
